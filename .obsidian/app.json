@@ -1,0 +1,17 @@
+{
+  "readableLineLength": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "assets",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "shortest"
+}
