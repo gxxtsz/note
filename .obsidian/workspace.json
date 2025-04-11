@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/大模型常见概念详解.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型常见概念详解"
+              "title": "README"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "9760a6ea8bdf267c",
   "lastOpenFiles": [
+    "大模型/大模型常见概念详解.md",
     "git_auto_commit.sh",
     "git_auto_commit.bat",
     "大模型/RAG.md",
-    "大模型/大模型常见概念详解.md",
     "assets/Pasted image 20250411200834.png",
     "大模型/大模型部署.md",
     "大模型/Llama.md",
@@ -225,7 +225,6 @@
     "后端",
     "前端",
     "尚硅谷STM32",
-    "STM32/02.硬件",
     "归档/深度学习/未命名.canvas",
     "深度学习/未命名.canvas",
     "未命名.canvas",
